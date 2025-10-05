@@ -3,7 +3,7 @@
 This project demonstrates how to deploy a Docker container running a firefox GUI based browser. This setup allows you to run Firefox in an isolated environment with a graphical interface, suitable for testing, development or secure browsing. 
 
 ## Table of Contents
-- [Overview] (#overview)
+- [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](setup-instructions)
 - [Usage](#usage)
@@ -44,6 +44,11 @@ Follow these steps to set up and run the Dockerized Firefox browser:
 - This will bring up your browser being run from your Docker container.
 - To check firefox logs for any issues use the following command: docker logs firefox --tail20
 
+## Benefits of using a Dockerized browser:
+
+- Isolation and Security
+- Cross Platform Portability
+- Great for Testing and Development
 
 
 
