@@ -46,7 +46,7 @@ Follow these steps to set up and run the Dockerized Firefox browser:
 
 ## Usage
 Run the container installation command:
-![Container Installation]https://github.com/Beary04/Running-a-web-browser-inside-Docker-/blob/05caacdb156d93d1a16bcda5cc985dba8ba3f80f/Screenshot%20(36).png
+![Container Installation](Screenshot (36).png)
 
 ## Benefits of using a Dockerized browser:
 
