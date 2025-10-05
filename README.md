@@ -48,10 +48,13 @@ Follow these steps to set up and run the Dockerized Firefox browser:
 Run the container installation command:
 ![Container Installation](Screenshot1.png)
 
+Example of web browser running from localport 3000
 ![Web browser running from localport](Screenshot2.png)
 
+Docker ps command showing the container running
 ![Docker PS command showing the container running](Screenshot3.png)
 
+Firefox logs running to see any issues
 ![Checking firefox logs](Screenshot4.png)
 
 
