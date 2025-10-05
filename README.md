@@ -44,6 +44,10 @@ Follow these steps to set up and run the Dockerized Firefox browser:
 - This will bring up your browser being run from your Docker container.
 - To check firefox logs for any issues use the following command: docker logs firefox --tail20
 
+## Usage
+Run the container installation command:
+![Container Installation](images/Screenshot(36).png)
+
 ## Benefits of using a Dockerized browser:
 
 - Isolation and Security
